@@ -14,7 +14,8 @@ tags: [css-position] # TAG names should always be lowercase
 ## Relative
 
 脫離文檔流，但存在于文檔流中（占據空間）， 相對於自身的偏移
-![img-description](https://img-blog.csdnimg.cn/20190825171118713.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NqbTEzMjQ5NDI1Mjgw,size_16,color_FFFFFF,t_70)_box-item2: relative_
+
+<!-- ![img-description](https://img-blog.csdnimg.cn/20190825171118713.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NqbTEzMjQ5NDI1Mjgw,size_16,color_FFFFFF,t_70)_box-item2: relative_ -->
 
 ## Abolute
 
