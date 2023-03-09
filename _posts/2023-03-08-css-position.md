@@ -9,7 +9,7 @@ tags: [css-position] # TAG names should always be lowercase
 
 ## Static
 
-默認值，忽略 top, right, bottom, left
+默認值，忽略 top, right, bottom, left 設置
 
 ## Relative
 
