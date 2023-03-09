@@ -1,6 +1,6 @@
 ---
 title: Markdown Learning
-date: 2023-03-08 06:32:10 -5
+date: 2023-03-08 06:32:10 -0500
 categories: [Markdown, Format]
 tags: [md] # TAG names should always be lowercase
 ---

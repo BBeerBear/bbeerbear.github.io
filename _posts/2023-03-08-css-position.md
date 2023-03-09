@@ -1,6 +1,6 @@
 ---
 title: Difference between absolute, relative, static, fixed and static
-date: 2023-03-08 23:53:10 -5
+date: 2023-03-08 23:53:10 -0500
 categories: [CSS, Position]
 tags: [css-position] # TAG names should always be lowercase
 ---
