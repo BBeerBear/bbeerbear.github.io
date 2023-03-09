@@ -1,11 +1,11 @@
 ---
-title: Test
+title: Markdown Learning
 date: 2023-03-08 06:32:10 +/-TTTT
-categories: [Test, MD Writing]
+categories: [Markdown, Format]
 tags: [md] # TAG names should always be lowercase
 ---
 
-# Welcome(MD Template)
+# MarkDown Template
 
 ## What is Ruby and Bundler
 
