@@ -1,4 +1,4 @@
-# Java using MongoDB
+# MongoDB
 
 - A MongoDB hosts a number of databases
 - A database is a physical data container of a set of collections
