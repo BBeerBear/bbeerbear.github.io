@@ -1,6 +1,6 @@
 ---
 title: Jekyll + Github Pages build a blog website
-date: 2023-03-09 01:05:08 -0500
+date: 2023-03-09 14:58:08 -0500
 categories: [Personal Website, Blog]
 tags: [personal website] # TAG names should always be lowercase
 ---
@@ -27,11 +27,15 @@ tags: [study tips] # TAG names should always be lowercase
 7. git push
 8. Check **_Actions_** to see if build and deployment are successful
 
-[More references](https://chirpy.cotes.page/posts/getting-started/)
+## Link
+
+[Chirpy Getting Started](https://chirpy.cotes.page/posts/getting-started/)
+
+[Youtube Guider](https://www.youtube.com/watch?v=F8iOU1ci19Q&t=1141s)
 
 ## Bugs
 
-### showing "layout: home # index: page" ->
+### showing "--- layout: home # index: page ---"
 
 1. set 'Actions -> General -> Workflow permissions' to 'Read and write permissions'
 2. re-edit the index.html and push.
