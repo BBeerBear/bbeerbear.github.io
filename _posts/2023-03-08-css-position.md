@@ -5,7 +5,7 @@ categories: [CSS, Position]
 tags: [css-position] # TAG names should always be lowercase
 ---
 
-# [CSS] - Difference between absolute, relative, static, fixed and static
+# Position
 
 ## Static
 
