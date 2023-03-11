@@ -1,8 +1,8 @@
 ---
 title: Java Networking Programming
 date: 2023-03-11 11:39:08 -0500
-categories: [java, networking programming]
-tags: [java network] # TAG names should always be lowercase
+categories: [Java, Networking Programming]
+tags: [java learning] # TAG names should always be lowercase
 ---
 
 ## What is Socket (Transport Layer)
