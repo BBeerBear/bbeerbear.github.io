@@ -78,7 +78,6 @@ theme_mode: # [light|dark]
 #
 # e.g. 'https://cdn.com'
 img_cdn:
-
 # the avatar on sidebar, support local or CORS resources
 avatar: https://media.licdn.com/dms/image/D4E03AQF3G8P0Lo-ndg/profile-displayphoto-shrink_400_400/0/1677043126335?e=1683763200&v=beta&t=pFUd32JBo9gg1E7WvvuWnMSPMB_N67kbEeQAmCpU7Lk
 
