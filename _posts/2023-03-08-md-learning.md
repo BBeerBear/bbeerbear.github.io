@@ -35,3 +35,7 @@ sudo apt update && sudo apt upgrade
 ![cartoon](https://globalimg.sucai999.com/preimg/123D82/700/123D82/201/fba7691e9f59ffb735c0da11dbebd062.jpg)_haizeiwang_
 
 [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/)
+
+## Embed a video
+
+https://chirpy.cotes.page/posts/write-a-new-post/#videos
